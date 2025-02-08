@@ -1,0 +1,34 @@
+.d-flex{
+gap: 10px;
+}
+.home{
+    width: 600px;
+    height: 400px;
+    align-items: center;
+}
+.home-title h1{
+    color: black;
+}
+.home-text p{
+    color: black;
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.img-title img{
+    width: 500px;
+    height: 500px;
+}
+.home{
+    align-items: center;
+}
+.card-wrapper card{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-wrapper {
+    display: flex;
+ gap: 20px;
+}
